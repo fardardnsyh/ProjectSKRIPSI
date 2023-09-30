@@ -1,7 +1,7 @@
 # ProjectSKRIPSI
 ![ProjectSKRIPSI](https://socialify.git.ci/fardardnsyh/ProjectSKRIPSI/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
-membuat Project Skripsi sebagai syarat sidang di universitas gunadarma untuk lulus kuliah tepat waktu / 4 Tahun
-PROTOTIPE SISTEM ALARM PENDETEKSI ASAP DAN KEBAKARAN DINI MENGGUNAKAN KIPAS DAN POMPA AIR BERBASIS ARDUINO UNO
+
+<p id="description">A membuat Project Skripsi sebagai syarat sidang di universitas gunadarma untuk lulus kuliah tepat waktu / 4 Tahun PROTOTIPE SISTEM ALARM PENDETEKSI ASAP DAN KEBAKARAN DINI MENGGUNAKAN KIPAS DAN POMPA AIR BERBASIS ARDUINO UNO
 
 
                                                     SKEMATIK ALAT SKRIPSI
