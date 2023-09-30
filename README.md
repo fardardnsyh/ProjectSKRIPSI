@@ -8,7 +8,7 @@ PROTOTIPE SISTEM ALARM PENDETEKSI ASAP DAN KEBAKARAN DINI MENGGUNAKAN KIPAS DAN 
 
                                                      FOTO ALAT SKRIPSI
 ![PROJECT SKRIPSI_2](https://github.com/fardardnsyh/ProjectPenulisanIlmiah/assets/145440594/8f52a250-2dab-4d70-b8a3-fd869eea0bd9)
-![PROJECT SKRIPSI_1](https://github.com/fardardnsyh/ProjectPenulisanIlmiah/assets/145440594/7d1e54a3-d222-45e3-b897-dd1a5f69f526)
+            ![PROJECT SKRIPSI_1](https://github.com/fardardnsyh/ProjectPenulisanIlmiah/assets/145440594/7d1e54a3-d222-45e3-b897-dd1a5f69f526)
 
 <h2>💻 Built with</h2>
 Technologies used in the project:
